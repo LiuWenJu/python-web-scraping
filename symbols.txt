@@ -1,0 +1,4 @@
+aapl
+spy
+goog
+nflx
